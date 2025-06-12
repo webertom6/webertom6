@@ -6,7 +6,7 @@
 
 ## LIST OF REPO
 
-**1. Profile** [link home page](https://github.com/webertom6)
+**1. Doom like using raycasting in FPGA** [doom-raycast-fpga](https://github.com/webertom6/doom-raycast-fpga))
 
 <!---
 webertom6/webertom6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
