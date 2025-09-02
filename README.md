@@ -1,12 +1,19 @@
 # TOM WEBER - BELGIUM
 
-- Engineering student in Neuromorphic Engineering at ULiège's University
+- Engineering student in Neuromorphic Engineering at ULiège's University (former Signal processing and intelligent robotics)
 
-- Interested in both electriconics, robotics and AI
+- Interests : electronics, robotics and AI
 
-## LIST OF REPO
+## LIST OF PERSONNAL PROJECTS
 
 **1. Doom-like using raycasting in FPGA :** [doom-raycast-fpga](https://github.com/webertom6/doom-raycast-fpga)
+
+**2. Scene understanding with different understanding (ConvNet, DenseNet, ResNet, ViT) :** [deep-learning](https://github.com/webertom6/deep-learning)
+
+## LIST OF UNI COMMON PROJECTS
+
+**1. fMRI artifacts detection :** [medical-imaging](https://github.com/webertom6/medical-imaging)
+
 
 <!---
 webertom6/webertom6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
