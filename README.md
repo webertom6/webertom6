@@ -10,6 +10,8 @@
 
 **2. Scene understanding with different understanding (ConvNet, DenseNet, ResNet, ViT) :** [deep-learning](https://github.com/webertom6/deep-learning)
 
+**3. MLOps on forecasting renewable energy :** [wattwise-mlops](https://github.com/webertom6/wattwise-mlops)
+
 ## LIST OF UNI COMMON PROJECTS
 
 **1. fMRI artifacts detection :** [medical-imaging](https://github.com/webertom6/medical-imaging)
