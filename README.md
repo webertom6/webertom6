@@ -8,7 +8,7 @@
 
 **1. Doom-like using raycasting in FPGA :** [doom-raycast-fpga](https://github.com/webertom6/doom-raycast-fpga)
 
-**2. Scene understanding with different understanding (ConvNet, DenseNet, ResNet, ViT) :** [deep-learning](https://github.com/webertom6/deep-learning)
+**2. Scene understanding with different architectures (ConvNet, DenseNet, ResNet, ViT) :** [deep-learning](https://github.com/webertom6/deep-learning)
 
 **3. MLOps on forecasting renewable energy :** [wattwise-mlops](https://github.com/webertom6/wattwise-mlops)
 
