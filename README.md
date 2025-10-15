@@ -12,6 +12,8 @@
 
 **3. MLOps on forecasting renewable energy :** [wattwise-mlops](https://github.com/webertom6/wattwise-mlops)
 
+**4. PROTOBOT : Autonomous Obstacle-Avoiding Car :** [pi-protobot](https://github.com/webertom6/pi-protobot)
+
 ## LIST OF UNI COMMON PROJECTS
 
 **1. fMRI artifacts detection :** [medical-imaging](https://github.com/webertom6/medical-imaging)
