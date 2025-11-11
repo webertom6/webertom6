@@ -1,6 +1,6 @@
 # TOM WEBER - BELGIUM
 
-- Engineering student in Neuromorphic Engineering at ULiège's University (former Signal processing and intelligent robotics)
+- **Electrical Engineer**, specialized in Neuromorphic Engineering at ULiège's University (former Signal processing and intelligent robotics)
 
 - Interests : electronics, robotics and AI
 
@@ -16,7 +16,13 @@
 
 ## LIST OF UNI COMMON PROJECTS
 
-**1. fMRI artifacts detection :** [medical-imaging](https://github.com/webertom6/medical-imaging)
+**1. Identification Chessboard Computer Vision (YOLO + CV) :** [computer-vison-chessboard](https://github.com/webertom6/computer-vison-chessboard)
+
+**2. fMRI artifacts detection :** [medical-imaging](https://github.com/webertom6/medical-imaging)
+
+**3. Compact signal generator (sinus, triangle, square) with tunable frequency, custom PCB + embedded system :** [applied-elec](https://github.com/webertom6/applied-elec)
+
+**4. Website and database management for small party and event planning business. :** [database-store-management](https://github.com/webertom6/database-store-management)
 
 
 <!---
