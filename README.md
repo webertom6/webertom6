@@ -12,7 +12,9 @@
 
 **3. MLOps on forecasting renewable energy :** [wattwise-mlops](https://github.com/webertom6/wattwise-mlops)
 
-**4. PROTOBOT : Autonomous Obstacle-Avoiding Car :** [pi-protobot](https://github.com/webertom6/pi-protobot)
+**4. PROTOBOT - Autonomous Obstacle-Avoiding Car :** [pi-protobot](https://github.com/webertom6/pi-protobot)
+
+**5. GameGridApp - Modulatory GUI template for board games :** [GameGridApp]([https://github.com/webertom6/pi-protobot](https://github.com/webertom6/GameGridApp))
 
 ## LIST OF UNI COMMON PROJECTS
 
